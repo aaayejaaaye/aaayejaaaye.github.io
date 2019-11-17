@@ -1,10 +1,11 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: AAAYEJAAAYE
+author: AJ
+email: 
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome, I'm AJ. I am passionate about AR/VR and the role
+  it will play in society.
+  I've dedicated this blog to AR game development, emerging tech, software and all things realated to learning as much as I can about
+  augmented reality and virtual reality.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -15,15 +16,15 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    rss: rss
+    #twitter: jekyllrb
+    github:  github.com/aaayejaaaye
+  #  rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
+     #linkedin: https://www.linkedin.com/in/aj-jones-46324b174/
+     #pinterest: https://www.pinterest.com/aaayejaaaye/aaayejaaaye/
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon

@@ -1,0 +1,309 @@
+I"�F<p style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 15.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with &gt;&gt;&gt;&gt;&gt;  gd2md-html alert:  for specific instances that need correction.&lt;/ul&gt;
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+<a href="#gdcalert2">alert2</a>
+<a href="#gdcalert3">alert3</a>
+<a href="#gdcalert4">alert4</a>
+<a href="#gdcalert5">alert5</a>
+<a href="#gdcalert6">alert6</a>
+<a href="#gdcalert7">alert7</a>
+<a href="#gdcalert8">alert8</a>
+<a href="#gdcalert9">alert9</a>
+<a href="#gdcalert10">alert10</a>
+<a href="#gdcalert11">alert11</a>
+<a href="#gdcalert12">alert12</a>
+<a href="#gdcalert13">alert13</a>
+<a href="#gdcalert14">alert14</a>
+<a href="#gdcalert15">alert15</a>
+
+<p style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; PLEASE check and correct alert issues and delete this message and the inline alerts.<hr /></p>
+
+
+**SparkAR Studio v75**
+
+How long has this been a thing!? It's fantastic, easy,and fun!
+
+I was recently Googling: _AR Software 2019_, and found Spark AR show up in several of my results. At first I was reluctant because I personally don’t currently use Instagram or SnapChat(but have been considering it). I thought seems simple let’s give it a go!
+
+**First Impression:**
+
+I wanted to do some investigation first. First I looked up the documentation on the Spark AR Website. It fabulous, thorough and my favorite, provides samples projects with video tutorials!
+
+Next I went to Youtube and looked for content created on there, again plenty to work with.
+
+So I took the next step and downloaded the application and booted her up. Installation Was super simple and I was able to log in with my facebook account info, I was prompted that if I wanted to create and AR application for Iphone I would have to create an Itunes account. This is just for fun, so I'm not going to.
+
+**First Boot:**
+
+I opened up a sample project, _Boombox with Audio, _and the interface was very natural and easy to understand. Perhaps it is my experience with Photoshop and Blender, but it felt akin to those types of programs. I followed along to a few of the [sample tutorials/assets](https://sparkar.facebook.com/ar-studio/learn/documentation/videos) and mulled over the [documentation](https://sparkar.facebook.com/ar-studio/learn/documentation/guides) and I felt ready to create my own Master Pieces!
+
+**AJ! **
+
+**What Are We Going to Create Today???**
+
+**Glad you asked!**
+
+Ok how many of you love RGB!? ME TOO!
+
+Well, I sadly only own one cool rgb light bulb, it sits near my desk and I use it when the sun is down( any darkness lovers?) I love the purply, pinky, blue tones best but would love to experiment with what I would look like if I had more RGB, like a whole apartment of RGB *twinkling eyes* LETS GO!
+
+**What you’ll need:**
+
+Smart phone
+
+Usb connector
+
+Spark AR player app
+
+Spark AR Studio
+
+Webcam
+
+So this is pretty basic we will get more into it in a later post but for now we will make this very non-intimidating and simple.
+
+**Setting the Scene**
+
+-First we are going to create a canvas and a rectangle in the scene view. It needs to be a child of the focal Distance so that it is in view of the camera.
+
+-Right click Focal Distance&gt; Canvas
+
+-Right click Canvas&gt; rectangle (rename rectangle to rgb_env)
+
+
+
+<p id="gdcalert1"><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert: inline image link here (to images/I-Tried0.png). Store image on your image server and adjust path/filename if necessary. </span><br />(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br /><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; </span></p>
+
+
+![alt_text](images/I-Tried0.png "image_tooltip")
+
+
+-Now with rgb_env and in the inspector you should see the materials drop down, hit the + symbol to create a new material.
+
+
+
+<p id="gdcalert2"><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert: inline image link here (to images/I-Tried1.png). Store image on your image server and adjust path/filename if necessary. </span><br />(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br /><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; </span></p>
+
+
+![alt_text](images/I-Tried1.png "image_tooltip")
+
+
+-Under the assets menu you should see a new material0 appear, rename it to background_mat.
+
+-We want to add a texture to our new material. To do this we will click on the camera object in the scene view and hit the + under Texture Extraction this will create a texture that is what the camera is capturing. You should see cameraTexture0 appear in the textures folder under Assets
+
+
+
+<p id="gdcalert3"><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert: inline image link here (to images/I-Tried2.png). Store image on your image server and adjust path/filename if necessary. </span><br />(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br /><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; </span></p>
+
+
+![alt_text](images/I-Tried2.png "image_tooltip")
+
+
+<p id="gdcalert4"><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert: inline image link here (to images/I-Tried3.png). Store image on your image server and adjust path/filename if necessary. </span><br />(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br /><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; </span></p>
+
+
+![alt_text](images/I-Tried3.png "image_tooltip")
+
+
+- Click back on our background_mat and under shader properties&gt; diffuse Texture click on the →texture.
+
+
+
+<p id="gdcalert5"><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert: inline image link here (to images/I-Tried4.png). Store image on your image server and adjust path/filename if necessary. </span><br />(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br /><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; </span></p>
+
+
+![alt_text](images/I-Tried4.png "image_tooltip")
+
+
+-The Patch Editor should open and now we are ready for some simple logic
+
+**The Patch Editor**
+
+The Patch Editor is a tool they are implementing to take all the guest work of programming and make spark AR more accessible to non programmer types.
+
+-You should see a backgound_mat box in our patch editor view.
+
+-So in order for the scene to change color we are going to create a screen tap event. Right click in the patch editor and search for Screen Tap and insert it into the editor. Screen tap registers when the user touches anywhere on the screen.
+
+- We want our tap even to circle through a series of colors so for that we want to use a counter patch. Right click and search for counter and add it to the editor.
+
+- We need some values for our counter to loop through so we are going to create and Option Picker. This patch is nice because you can choose a value that is being picked it can be colors, vectors, animations etc. We are going to add then select our option picker and make sure that data type is color.  You can choose whichever colors you like. And combined with counter you can increase or decrease the number of color options.
+
+- Finally we are going to connect all the patches I have the final connectivity here:
+
+
+
+<p id="gdcalert6"><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert: inline image link here (to images/I-Tried5.png). Store image on your image server and adjust path/filename if necessary. </span><br />(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br /><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; </span></p>
+
+
+![alt_text](images/I-Tried5.png "image_tooltip")
+
+
+**Preview**
+
+So now we are going to select the camera icon and choose the integrated camera option you should now see yourself in the preview. On the camera preview box select the drop down and hit simulate touch, and begin selecting the screen. You should see the colors changing each time! YAY!
+
+ To view on phone:
+
+Download the Spark AR Player app and then connect your device to your computer via USB and in the bottom left there is a phone icon selected it and you should see your device listed, hit send and the app will appear on your phone! Viola! You now have an RGB Room!
+
+Here is the Final Project
+
+
+
+<p id="gdcalert7"><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert: inline image link here (to images/I-Tried6.png). Store image on your image server and adjust path/filename if necessary. </span><br />(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br /><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; </span></p>
+
+
+![alt_text](images/I-Tried6.png "image_tooltip")
+
+
+**Spark AR Studio v75**
+
+How long has this been a thing!?(August) It's fantastic, super easy, and fun!
+
+I was recently Googling: _AR Software 2019_, and found Spark AR show up in several of my results. At first I was reluctant because I personally don’t currently use Instagram or Facebook filters (but have been considering it). I thought it seems simple so let’s give it a go! and I made this simple lil filter that make it look like you have a cool RGB bulb  in your space that changes color whenever you tap the screen.
+
+[caption id="attachment_73" align="alignnone" width="683"]
+
+<p id="gdcalert8"><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert: inline image link here (to images/I-Tried7.gif). Store image on your image server and adjust path/filename if necessary. </span><br />(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br /><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; </span></p>
+
+
+![alt_text](images/I-Tried7.gif "image_tooltip")
+ blurry because my phone camera is broken ¯\_(ツ)_/¯ we must continue anyways![/caption]
+
+**First Impression**
+
+I wanted to do some investigation first. First, I looked up the documentation on the Spark AR Website. It's fabulous, thorough, and my favorite, provides samples projects with video tutorials! Next I went to YouTube and looked for content created on there, again, plenty to work with.
+
+So I took the next step and downloaded the application and booted her up. Installation was super simple and I was able to log in with my Facebook account info, I was prompted that if I wanted to create and AR application for Iphone I would have to create an Itunes account. This is just for fun, so I'm not going to.
+
+**First Boot**
+
+I opened up a sample project, _Boombox with Audio, _and the interface was very natural and easy to understand. Perhaps it is my experience with Photoshop and Blender, but it felt akin to those types of programs. I followed along to a few of the[ sample tutorials/assets](https://sparkar.facebook.com/ar-studio/learn/documentation/videos) and mulled over the[ documentation](https://sparkar.facebook.com/ar-studio/learn/documentation/guides) and I felt ready to create my own Master Pieces!
+
+**AJ! What Are We Going to Create Today??? Glad you asked!**
+
+Ok, how many of you love RGB!? ME TOO! Well, I sadly only own one cool rgb light bulb, it sits near my desk and I use it when the sun is down( any darkness lovers?) I love the purply, pinky, blue tones best but would love to experiment with what I would look like if I had more RGB, like a whole apartment of RGB *twinkling eyes* LETS GO! So this is pretty basic we will get more into it in a later post but for now we will make this very non-intimidating and simple.
+
+**What you’ll need**
+
+Smart phone
+
+USB Connector
+
+Spark AR player app
+
+Spark AR Studio
+
+Webcam
+
+**Setting the Scene**
+
+
+
+*   Go ahead and create an new project I named mine SparkRGB
+*   First we are going to create a canvas and a rectangle in the scene view. It needs to be a child of the focal Distance so that it is in view of the camera.
+*   Right click Focal Distance&gt; Canvas
+
+Right click Canvas&gt; rectangle (rename rectangle to rgb_env)
+
+<p id="gdcalert9"><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert: inline image link here (to images/I-Tried8.png). Store image on your image server and adjust path/filename if necessary. </span><br />(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br /><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; </span></p>
+
+
+![alt_text](images/I-Tried8.png "image_tooltip")
+
+
+
+
+*   Now with rgb_env and in the inspector you should see the materials drop down, hit the + symbol to create a new material.
+
+
+
+<p id="gdcalert10"><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert: inline image link here (to images/I-Tried9.png). Store image on your image server and adjust path/filename if necessary. </span><br />(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br /><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; </span></p>
+
+
+![alt_text](images/I-Tried9.png "image_tooltip")
+
+
+
+
+*   Under the assets menu you should see a new material0 appear, rename it to background_mat.
+*   We want to add a texture to our new material. To do this we will click on the camera object in the scene view and hit the + under Texture Extraction this will create a texture that is what the camera is capturing. You should see cameraTexture0 appear in the textures folder under Assets
+
+
+
+<p id="gdcalert11"><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert: inline image link here (to images/I-Tried10.png). Store image on your image server and adjust path/filename if necessary. </span><br />(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br /><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; </span></p>
+
+
+![alt_text](images/I-Tried10.png "image_tooltip")
+
+
+
+
+*   Click back on our background_mat and under shader properties&gt; diffuse Texture click on the →texture.
+
+
+
+<p id="gdcalert12"><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert: inline image link here (to images/I-Tried11.png). Store image on your image server and adjust path/filename if necessary. </span><br />(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br /><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; </span></p>
+
+
+![alt_text](images/I-Tried11.png "image_tooltip")
+
+
+
+
+*   The Patch Editor should open and now we are ready for some simple logic
+
+**The Patch Editor**
+
+
+
+*   The Patch Editor is a tool they are implementing to take all the guest work of programming and make spark AR more accessible to non programmer types.
+*   You should see a background_mat box in our patch editor view.
+*   So in order for the scene to change color we are going to create a screen tap event. Right click in the patch editor and search for Screen Tap and insert it into the editor. Screen tap registers when the user touches anywhere on the screen.
+*   We want our tap even to circle through a series of colors so for that we want to use a counter patch. Right click and search for counter and add it to the editor.
+*   We need some values for our counter to loop through so we are going to create and Option Picker. This patch is nice because you can choose a value that is being picked it can be colors, vectors, animations etc. We are going to add then select our option picker and make sure that data type is color.  You can choose whichever colors you like. And combined with counter you can increase or decrease the number of color options.
+*   Finally we are going to connect all the patches I have the final connectivity here:
+
+
+
+<p id="gdcalert13"><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert: inline image link here (to images/I-Tried12.png). Store image on your image server and adjust path/filename if necessary. </span><br />(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br /><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; </span></p>
+
+
+![alt_text](images/I-Tried12.png "image_tooltip")
+
+
+**Preview**
+
+To View in App
+
+So now we are going to select the camera icon and choose the integrated camera option you should now see yourself in the preview. On the camera preview box select the drop down and hit simulate touch, and begin selecting the screen. You should see the colors changing each time! YAY!
+
+To View on Phone:
+
+Download the Spark AR Player app and then connect your device to your computer via USB and in the bottom left there is a phone icon selected it and you should see your device listed, hit send and the app will appear on your phone! Viola! You now have an RGB Room!
+
+**Final Project in App:**
+
+
+
+<p id="gdcalert14"><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert: inline image link here (to images/I-Tried13.png). Store image on your image server and adjust path/filename if necessary. </span><br />(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br /><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; </span></p>
+
+
+![alt_text](images/I-Tried13.png "image_tooltip")
+
+
+I really look foreword to digging in deeper with this in the future! Anywho... See you next time!
+
+-AJ
+
+[caption id="attachment_74" align="aligncenter" width="240"]
+
+<p id="gdcalert15"><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt;  gd2md-html alert: inline image link here (to images/I-Tried14.gif). Store image on your image server and adjust path/filename if necessary. </span><br />(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br /><span style="color: red; font-weight: bold">&gt;&gt;&gt;&gt;&gt; </span></p>
+
+
+![alt_text](images/I-Tried14.gif "image_tooltip")
+ silly faces not necessary...[/caption]
+</li></li></ul>
+:ET
