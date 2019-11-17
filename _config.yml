@@ -1,6 +1,6 @@
 title: AAAYEJAAAYE
 author: AJ
-email: 
+email:
 description: > # this means to ignore newlines until "show_excerpts:"
   Welcome, I'm AJ. I am passionate about AR/VR and the role
   it will play in society.
@@ -17,14 +17,14 @@ minima:
   # generate social links in footer
   social_links:
     #twitter: jekyllrb
-    github:  github.com/aaayejaaaye
+    github: aaayejaaaye
   #  rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-     #linkedin: https://www.linkedin.com/in/aj-jones-46324b174/
-     #pinterest: https://www.pinterest.com/aaayejaaaye/aaayejaaaye/
+     #linkedin: aj-jones-46324b174/
+     #pinterest: aaayejaaaye/aaayejaaaye/
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
