@@ -3,6 +3,8 @@ layout: post
 title: "I Tried Spark AR: Beginner Friendly"
 categories:
 author: "AJ"
+image: \pictures\basic color switcing\sparkar.png
+excerpt_separator:  <!--more-->
 ---
 **Spark AR Studio v75**
 
@@ -12,7 +14,7 @@ author: "AJ"
 
 How long has this been a thing!?(August) It's fantastic, super easy, and fun!
 
-I was recently Googling: AR Software 2019, and found Spark AR show up in several of my results. At first I was reluctant because I personally don’t currently use Instagram or Facebook filters (but have been considering it). I thought it seems simple so let’s give it a go! and I made this simple lil filter that make it look like you have a cool RGB bulb  in your space that changes color whenever you tap the screen.
+I was recently Googling: AR Software 2019, and found Spark AR show up in several of my results. At first I was reluctant because I personally don’t currently use Instagram or Facebook filters (but have been considering it). <!--more-->I thought it seems simple so let’s give it a go! and I made this simple lil filter that make it look like you have a cool RGB bulb  in your space that changes color whenever you tap the screen.
 
 ![Image of SparkRGB](\pictures\basic color switcing\giphy.gif)
 

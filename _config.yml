@@ -4,10 +4,10 @@ email:
 description: > # this means to ignore newlines until "show_excerpts:"
   Welcome, I'm AJ. I am passionate about AR/VR and the role
   it will play in society.
-  I've dedicated this blog to AR game development, emerging tech, software and all things realated to learning as much as I can about
+  I've dedicated this blog to AR game development, emerging tech, software and all things related to learning as much as I can about
   augmented reality and virtual reality.
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
