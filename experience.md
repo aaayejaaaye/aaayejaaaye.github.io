@@ -26,11 +26,11 @@ PROGRAMMING EXPERIENCE
 *   Test SQL queries for accurate results. Designed a program to automatically format query results
 *   Help write programs for software integration for the tools used within the IAM team’s scope
 *   Write documentation for the Office of Information Technology Knowledge Base regarding processes related to the IAM team
-*   Attended a Docker workshop which showed continuous integration and development pipeline building and integration with Jenkins and Docker**	**
+*   Attended a Docker workshop which showed continuous integration and development pipeline building and integration with Jenkins and Docker
 
-**CU NASA SUITS, University of Colorado ** Boulder, CO				                    9/18 – 7/19
+**CU NASA SUITS, University of Colorado** Boulder, CO				                    9/18 – 7/19
 
-**	_Programming Lead_**
+**Programming Lead**
 
 *   Work with programming and UI design team to create an application and interactive mixed reality interface on Hololens for a NASA challenge
 *   Solve challenging and complex problems around Windows game development and operations
