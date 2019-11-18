@@ -1,0 +1,47 @@
+I"�<p><img src="\pictures\scroll.jpg" width="400" height="350" style="margin-left:auto; margin-right:auto; display:block;" /></p>
+
+<p>Ah yes, Unity, Throughout the years of being an aspiring game developer/CS graduate/billionaire/philanthropist(ehehe) I have followed hundreds of Unity tutorials. I would consider myself an intermediate beginner as a Unity user however, I find that I can still find some real quality intro Unity tutorials that I can benefit from(usually not free). If you look up Unity 3D/Game Development or any other popular keywords for aspiring game makers in an analytics tool you will see that the results are both highly sought after and also… highly saturated (I’m a small fish in a big pond).<!--more--> So mulling through these results and finding the right tutorial that wont waste your time is essential in the beginning stages of you game making journey. Having said that, I have learned a few things about the DO’s and DONT’S of trying to follow along. If you are looking for some basic Unity tutorials check out my <a href="/2019/11/14/Best-Unity-Tutorials-For-Beginners-2019.html">Best Unity Tutorials for Beginners in 2019</a>  So without further ado, Here are the 10 Commandments for beginners following a Unity tutorial online:</p>
+
+<ol>
+  <li>Thou Shalt Observe the Unity version Number</li>
+  <li>Thou Shalt google endless until a fix is found to a console Error</li>
+  <li>Thou Shalt name the scripts to match the project and in the IDE</li>
+  <li>Thou Shalt Learn the Editor Before Learning the Scripting</li>
+  <li>Thou shalt have Patience</li>
+  <li>Thou Shalt Utilize the Asset Store</li>
+  <li>Thou Shalt Use the Search API feature in VS</li>
+  <li>Thou Shalt Align Empty Game objects with origin</li>
+  <li>Thou Shalt Always double check the configurations and the player settings</li>
+  <li>Thou Shalt utilize forums and documentation</li>
+</ol>
+
+<p><strong>Thou Shalt Observe the Unity version Number</strong>
+As a beginner you may not realize that Unity Projects are not backwards compatible and that the layout/configurations and capabilities of Unity projects vary greatly between major version releases. If you are opening a Unity project that was created and save as a different version, a notification will appear and warn you that this could be troublesome. I would say for official Unity tutorials this may not be a problem but there are a lot of tutorials out there that are extremely dated and will be hard to follow if you dont already understand Unity essentials.</p>
+
+<p>There are two ways to check which Unity version you own(and you may own several) one way is in the Unity Hub under Installs:
+<img src="pictures\tencommandments\unityversion.png" /></p>
+
+<p>The other is once you have opened a Unity Project in the top left corner:
+<img src="pictures\tencommandments\inituversion2.png" />
+<em>tip: if you don’t see and explicit 20xx.x.x version than the tutorial is in a much older version(usually unity 5&gt;) as  a newbie it might be best to avoid these older ones)</em></p>
+
+<p><em>tip (Import the Project as assets or as a unity package)</em></p>
+
+<p><strong>Thou Shalt google endless until a fix is found to a console Error</strong></p>
+
+<p><strong>Thou Shalt name the scripts to match the project and in the IDE</strong></p>
+
+<p><strong>Thou Shalt Learn the Editor Before Learning the Scripting</strong></p>
+
+<p><strong>Thou shalt have Patience</strong></p>
+
+<p><strong>Thou Shalt Utilize the Asset Store</strong></p>
+
+<p><strong>Thou Shalt Use the Search API feature in VS</strong></p>
+
+<p><strong>Thou Shalt Align Empty Game objects with origin</strong></p>
+
+<p><strong>Thou Shalt Always double check the configurations and the player settings</strong></p>
+
+<p><strong>Thou Shalt utilize forums and documentation</strong></p>
+:ET

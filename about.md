@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-![Image of Me](/pictures\image1.jpg)
+
+<img src="\pictures\image1.jpg" width="400" height="520"/>
+
 Welcome to aaayejaaaye, (pronounced AJ)
 
 I’m AJ! Currently I’m studying computer science in beautiful Colorado. This blog is where I document my passion for augmented/virtual reality as well as game development and design. I have so many plans! I have been serious about learning Unity for about a year now and I feel in that time I have learned so much! my primary experience has been working with the Microsoft Hololens AR heads up Display for NASA! ( See Experience Page)
