@@ -7,6 +7,7 @@ image: \pictures\Unity Learn.jpg
 excerpt_separator:  <!--more-->
 ---
 ---
+
 ![Unity Learn](\pictures\Unity Learn.jpg)
 
 Im not going to lie, When I started learning Unity I was interested in the three main areas: scripting, UI, and augmented reality. I B-lined it straight to those topics and was completely lost. After a while I still learned a lot, but it wasn't until I finally took the time to just learn the basics that I realized just how much knowledge I was missing out on(with the right tutorial).  <!--more-->If your not into design and are like me and want to focus on more technical elements, too bad. If you want to create awesome environments and don't feel comfortable with scripting, I have bad news. If you really want to learn Unity, sure, have a specialty, but you have to learn all aspects to truly understand this game engine, and don't think you can just watch a 30 min video and master Unity either, WRONG! Ok, I'm done shaming.
