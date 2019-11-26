@@ -36,19 +36,19 @@ In CS, you usually fall into three camps, Mac lovers, Mac haters, people who use
 
 [**Logitech M535** $25.99](https://www.amazon.com/gp/product/B0148NPIQK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0148NPIQK&linkCode=as2&tag=aaayejaaaye07-20&linkId=2bbd0f9d07f3bcd8809134708bdce979)
 
-This Depends on your Interest, but Working on Computer all day can be a little annoying if you are stuck using a trackpad. If you are doing any kind of of graphics work or Game Development using other software, such as Unity, then not using a mouse makes getting anything done impossible! I personally use the [Logitech M535](https://www.amazon.com/gp/product/B0148NPIQK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0148NPIQK&linkCode=as2&tag=aaayejaaaye07-20&linkId=2bbd0f9d07f3bcd8809134708bdce979) mouse and keyboard and have for many years, highly recommend.
+This Depends on your Interest, but working on computer all day can be a little annoying if you are stuck using a trackpad. If you are doing any kind of graphics work or Game Development using other software, such as Unity, then not using a mouse makes getting anything done impossible! I personally use the [Logitech M535](https://www.amazon.com/gp/product/B0148NPIQK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0148NPIQK&linkCode=as2&tag=aaayejaaaye07-20&linkId=2bbd0f9d07f3bcd8809134708bdce979) mouse and keyboard and have for many years, highly recommend.
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B07DHDFW5V/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07DHDFW5V&linkCode=as2&tag=aaayejaaaye07-20&linkId=0f59b19d769a79ccbe64e7c5fb4471de"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07DHDFW5V&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=aaayejaaaye07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=aaayejaaaye07-20&l=am2&o=1&a=B07DHDFW5V" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 [**Logitech MX Master** $56.98](https://www.amazon.com/gp/product/B07DHDFW5V/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07DHDFW5V&linkCode=as2&tag=aaayejaaaye07-20&linkId=b62444f64fa9154930dcec027216b25e)
 
-For many years Influencers have been advertising this mouse as the perfected mouse for productivity. From what I hear the DPI is decent enough for wireless gaming and you can use it on literally any surface. ***starry eyed wonderment*** It's on my list.
+For many years Influencers have been advertising this mouse as the perfect mouse for productivity. From what I hear the DPI is decent enough for wireless gaming, and you can use it on literally any surface. ***starry eyed wonderment*** It's on my list.
 
 
 
 <h4 style="font-weight:bold; color:#6600ff ;"> A Second Monitor</h4>
 
-This will depend on the type of work said CS major will be looking to get into but having said that, your going to want at least 1080p, IPS, and 24 inches. Samsung and Acer Are having Deals across the board for their monitors this holiday season so Don't Miss Out on a steal!
+This will depend on the type of work said CS major will be looking to get into. Having said that, your going to want at least 1080p, IPS, and 24 inches. Samsung and Acer are having deals across the board for their monitors this holiday season so don't miss out on a steal!
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B079K3MXWF/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B079K3MXWF&linkCode=as2&tag=aaayejaaaye07-20&linkId=d605e7c70fc388812cf793c6103227bf"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B079K3MXWF&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=aaayejaaaye07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=aaayejaaaye07-20&l=am2&o=1&a=B079K3MXWF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -66,7 +66,7 @@ I want one, 144HZ and 32" of real estate to work with!
 
 [**Samsung 49" 144Hz Curved Gaming Monitor** $799](https://www.amazon.com/gp/product/B072C7TNC5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B072C7TNC5&linkCode=as2&tag=aaayejaaaye07-20&linkId=660c0e0e03c7d2c018a24ae02b28c3c1)
 
-I've been seeing a lot of ultrawides lately, the zeigtgeist has spoken, get on the bandwagon and quadruple your productivity and gaming with this absolute steal ($300 off!!!)
+I've been seeing a lot of ultrawide screens lately, the zeitgeist has spoken, get on the bandwagon and quadruple your productivity and gaming with this absolute steal ($300 off!!!)
 
 <h3 style="color: #66ff33; font-weight:bold;">For the Reader</h3>
 
