@@ -48,6 +48,14 @@ minima:
 # Build settings
 theme: minima
 
+jekyll-amazon:
+  locale: 'ja'  # label's language. default: 'en'
+  country: 'jp' # with the two character country code of their Amazon
+                # Affiliate account (e.g. `'us'` for United States).
+                # default: 'us'
+                # 'br'/'ca'/'cn'/'de'/'es'/'fr'/'in'/'it'/'jp'/'mx/'uk'/'us'
+  template_dir: '_templates' # original template directory
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
