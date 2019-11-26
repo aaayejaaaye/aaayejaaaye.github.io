@@ -1,0 +1,103 @@
+I"�<hr />
+
+<p><img src="\pictures\how I Created My Blog\HowFreeBanner.png" style="margin-left:auto; margin-right:auto; display:block;" /></p>
+
+<p>Hi Techies, So I’ve been playing around with Jekyll for about a month getting this blog running. I spent two weeks of that trying to format and edit a Jekyll them that was way past my level of understanding when I had a eureka moment of the design saying, ‘Keep it simple stupid’. I am not trying to be a web designer or anything. I needed to just stick to the basics and work my way up.<!--more--></p>
+
+<p><img src="\pictures\how I Created My Blog\tenor.gif" style="margin-left:auto; margin-right:auto; display:block;" /></p>
+
+<p>This tutorial is for those with Basic understanding of HTML, CSS, CMD, IDE’s, etc. Of course I will not discourage someone with out any experience to not try this, I’m just gonna say, If you want this to be easy and seamless then head over to WordPress, Wix, or whatever and give them your money. No shade, seriously. If you have the basic skills, and time, you can create a blog on the cheap!</p>
+
+<p>If you are here for the first time, Hi, I’m AJ. I am a CS Major at CU Boulder and I have interest in AR/VR/Game Dev subjects. This Blog is dedicated to highlighting thing I’ve Learned, tutorials and other cool stuff I like. I’m not big into web design or development, but that just kind of is the way things are going and being able to create a website is a useful skill set for anybody trying to put themselves out there.</p>
+
+<p>What are We going to Learn Today!
+We are going to Use <a href="https://jekyllrb.com/">Jekyll</a>, a Static Site creator, and <a href="https://github.com/">GitHub</a>, a software hosting platform.
+I am also using a Jekyll Theme: <a href="https://github.com/jekyll/minima">Minima</a>, which is the default theme, but I have altered it to make it my own.
+I am doing this with Windows so if you are on Mac/Linux the Installation of Jekyll will differ.</p>
+
+<p><strong>What will you Need:</strong></p>
+
+<p>GitHub Account</p>
+
+<p>Command Line Prompt</p>
+
+<p>Domain Name(Optional)</p>
+
+<p>W3 schools</p>
+
+<p>JEKYLL documentation</p>
+
+<p>Atom (or any text editor/IDE of your choice)</p>
+
+<p>Canva (Optional)</p>
+
+<p><strong>Installation of Jekyll:</strong></p>
+
+<p>There is a lot of great Documentation on how to install Jekyll on you device. Head on over to the <a href="https://jekyllrb.com/docs/installation/">Jekyll Docs</a> and that should get you squared away. Since I am on Windows I followed the instructions <a href="https://jekyllrb.com/docs/installation/windows/">here</a>.</p>
+
+<p>Now that I have Jekyll and friends installed I am going to open my command prompted. First I’ve checked my ruby and gem versions. then I switched to my Documents directory where I will host my site, then I created a new folder for my site name <strong><em>testsite</em></strong> I then ran the cmd Jekyll new testblog.
+<img src="\pictures\how I Created My Blog\installjekyll1.png" /></p>
+
+<p>now open testblog</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd testblog
+</code></pre></div></div>
+<p>Next we are going to head over to GitHub Page for the <a href="https://github.com/jekyll/minima">Minima Theme</a>
+Make sure you are logged in and click the Fork button on the top right of the page.
+<img src="\pictures\how I Created My Blog\installjekyll2.png" /></p>
+
+<p>This will create this repo under your name. Go to you profile and click on this repo.
+There are several ways to go about this but rename your repository to username.github.io in order for git to recognize this repository as you hosted website. for instance mine is <a href="https://aaayejaaaye.github.io/">aaayejaaaye.github.io</a> @https://aaayejaaaye.github.io/.
+I recommend going to the documentation for <a href="https://pages.github.com/">GitHub Pages</a> and checking that out to see more on how this works, including documentation on Jekyll implementation.
+Now we are going to open this new repo folder in Atom.
+Go to file&gt;open Folder and select the ‘minima’ folder.
+make note of the file structure:</p>
+
+<p><img src="\pictures\how I Created My Blog\installjekyll3.png" /></p>
+
+<p>save the project and go to you cmd prompt and navigate to the minima folder. See how atom and cmd match</p>
+
+<p><img src="\pictures\how I Created My Blog\installjekyll4.png" /></p>
+
+<p><strong><em>Push to GitHub</em></strong></p>
+
+<p>Again, this took me a month. Dont feel like you have to do this all at once, in fact DON’T! Follow these simple tricks learn, some more through hours of tutorials and google searches. in the mean time save your work and dont forget to push to git GitHub. here are the basic git commands to update your site:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add .
+</code></pre></div></div>
+
+<p>adds all your changes in all your files</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit -m "Some message about the changes you made"
+</code></pre></div></div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git push
+</code></pre></div></div>
+<p>or</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git push origin master
+</code></pre></div></div>
+<p>Save often, google often. Thanks for hanging out with me!</p>
+
+<p>If you want to see more about how I adjusted the Design check out my post <a href="How-Designed-My-Jekyll-Blog.html">How I Designed My Jekyll Blog From Minima</a></p>
+
+<p><strong>BONUS ROUND: Domain Name</strong>
+you may have noticed my URL is not the standard .io extension. That is because I got a custom domain name. I purchased/ registered my domain name aaayejaaaye.com for $12 at <a href="https://domains.google/">google domains</a>. It just adds that extra touch of validity.</p>
+
+<p><strong><em>Adding your Doogle domain to Jekyll</em></strong></p>
+
+<p>So now that we are feeling valid, its time to make sure that whoever comes across this site is seeing a real nice, custom domain. In the root of your Project in Atom create a file called ‘CNAME’. no extension needed. and inside that file put the url you have registered with google. push these changes up into to repository.
+Back in your github repository go to Settings and make sure under Custom domain you see your url.</p>
+
+<p>check enfore HTTPS.</p>
+
+<p><img src="\pictures\how I Created My Blog\installjekyll014.png" /></p>
+
+<hr />
+
+<p><strong>Alrighty!</strong></p>
+
+<p>So there is the quick and dirty basics of how I hosted my customized my blog for free! I will say I did spend $12 for a custom domain name which I will talk about in a future post.</p>
+
+<p>Thank you for checking it out! Here is my cool leather Jacket:</p>
+
+<p><img src="\pictures\busme.jpg" width="241" height="224" /></p>
+
+<p>Deuces</p>
+:ET

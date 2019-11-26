@@ -3,7 +3,7 @@ layout: post
 title: "Ten Commandments For Following a Unity Tutorial"
 categories:
 author: "AJ"
-image: \pictures\scroll.jpg
+image: \pictures\
 excerpt_separator:  <!--more-->
 ---
 ---

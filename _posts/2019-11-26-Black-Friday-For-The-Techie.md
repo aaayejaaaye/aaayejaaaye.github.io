@@ -3,7 +3,7 @@ layout: post
 title: "Amazon Black Friday Deals For The Techie In Your Life"
 categories:
 author: "AJ"
-image: \pictures\scroll.jpg
+image: \pictures\The Best Amazon Tech Deals for Black Friday.png
 excerpt_separator:  <!--more-->
 ---
 ---
