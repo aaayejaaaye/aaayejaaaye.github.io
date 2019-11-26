@@ -12,7 +12,7 @@ excerpt_separator:  <!--more-->
 
 Hi Techies, So I've been playing around with Jekyll for about a month trying to get this blog running. I spent two weeks trying to format and edit a Jekyll then that was way past my level of understanding.
 
-This tutorial is for those with basic understanding of HTML, CSS, CMD, IDE's, etc. Of course I will not discourage someone without any experience to not try this, I'm just gonna say, if you want this to be easy and seamless then head over to WordPress, Wix, or whatever and give them your money. No shade, seriously. If you have the basic skills, and time, you can create a blog on the cheap!
+This tutorial is for those with basic understanding of HTML, CSS, CMD, IDE's, etc. Of course I will not discourage someone without any experience to not try this, I'm just gonna say, if you want this to be easy and seamless then head over to WordPress, Wix, or whatever and give them your money. No shade, seriously. If you have the basic skills, and time, you can create a blog on the cheap!<!--more-->
 
 If you are here for the first time, Hi, I'm AJ. I am a CS Major at CU Boulder and I have interest in AR/VR/Game Dev subjects. This Blog is dedicated to highlighting things I've Learned, tutorials and other cool stuff I like. I'm not big into web design or development, but that just kind of is the way things are going and being able to create a website is a useful skill set for anybody trying to put themselves out there.
 
