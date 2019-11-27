@@ -10,16 +10,15 @@ excerpt_separator:  <!--more-->
 
 <img src="\pictures\how I Created My Blog\HowFreeBanner.png" style="margin-left:auto; margin-right:auto; display:block;">
 
-Hi Techies, So I've been playing around with Jekyll for about a month trying to get this blog running. I spent two weeks trying to format and edit a Jekyll then that was way past my level of understanding.
+Hi Techies, So I've been playing around with Jekyll for about a month trying to get this blog running. This tutorial is for those with basic understanding of HTML, CSS, CMD, IDE's, etc. Of course I will not discourage someone without any experience to not try this. If you want this to be easy and seamless then head over to WordPress, Wix, or whatever and give them your money. No shade, seriously. If you have the basic skills, and time, you can create a blog on the cheap! I'm not big into web design or development, but that just kind of is the way things are going and being able to create a website is a useful skill set for anybody trying to put themselves out there.
+<!--more-->
 
-This tutorial is for those with basic understanding of HTML, CSS, CMD, IDE's, etc. Of course I will not discourage someone without any experience to not try this, I'm just gonna say, if you want this to be easy and seamless then head over to WordPress, Wix, or whatever and give them your money. No shade, seriously. If you have the basic skills, and time, you can create a blog on the cheap!<!--more-->
-
-If you are here for the first time, Hi, I'm AJ. I am a CS Major at CU Boulder and I have interest in AR/VR/Game Dev subjects. This Blog is dedicated to highlighting things I've Learned, tutorials and other cool stuff I like. I'm not big into web design or development, but that just kind of is the way things are going and being able to create a website is a useful skill set for anybody trying to put themselves out there.
+If you are here for the first time, Hi, I'm AJ. I am a CS Major at CU Boulder and I have interest in AR/VR/Game Dev subjects. This Blog is dedicated to highlighting things I've Learned, tutorials and other cool stuff I like.
 
 What are We going to Learn Today!
-We are going to use [Jekyll](https://jekyllrb.com/), a Static Site creator, and [GitHub](https://github.com/), a software hosting platform.
-I am also using a Jekyll Theme: [Minima](https://github.com/jekyll/minima), which is the default theme, but I have altered it to make it my own.
-I am doing this with Windows so if you are on Mac/Linux the installation of Jekyll will differ.
+We are going to use [Jekyll](https://jekyllrb.com/), a static site creator, and [GitHub](https://github.com/), a software hosting platform.
+I am also using a Jekyll Theme: [Minima](https://github.com/jekyll/minima), which is the default theme, but I have altered it to make it my own. If you would like to see more about how I designed this blog click [here](How-Designed-My-Jekyll-Blog.html).
+
 
 **What will you Need:**
 
@@ -40,15 +39,9 @@ Atom (or any text editor/IDE of your choice)
 
 There is a lot of great Documentation on how to install Jekyll on your device. Head on over to the [Jekyll Docs](https://jekyllrb.com/docs/installation/) and that should get you squared away. Since I am on Windows I followed the instructions [here](https://jekyllrb.com/docs/installation/windows/).
 
-Now that I have Jekyll and friends installed I am going to open my command prompt. First I checked my ruby and gem versions. Then I switched to my Documents directory where I will host my site, then I created a new folder for my site name ***testsite***. I then ran "jekyll new testblog" in cmd.
-<img src="\pictures\how I Created My Blog\installjekyll1.png">
+Next, we are going to head over to GitHub page for the [Minima Theme](https://github.com/jekyll/minima)
+Make sure you are logged in and click the 'Fork' button on the top right of the page.
 
-now open testblog
-```
-cd testblog
-```
-Next we are going to head over to GitHub Page for the [Minima Theme](https://github.com/jekyll/minima)
-Make sure you are logged in and click the Fork button on the top right of the page.
 <img src="\pictures\how I Created My Blog\installjekyll2.png">
 
 This will create this repo under your name. Go to your profile and click on this repo.
@@ -64,10 +57,12 @@ Save the project and go to your cmd prompt and navigate to the minima folder. Se
 
 <img src="\pictures\how I Created My Blog\installjekyll4.png">
 
+Again, this took me a month. Don't feel like you have to do this all at once, in fact DON'T! Follow these simple tricks, learn some more through hours of tutorials, and keep doing Google searches. In the meantime, save your work and don't forget to push to GitHub.
 
 ***Push to GitHub***
 
-Again, this took me a month. Don't feel like you have to do this all at once, in fact DON'T! Follow these simple tricks, learn some more through hours of tutorials, and keep doing Google searches. In the meantime, save your work and don't forget to push to GitHub. Here are the basic git commands to update your site:
+Here are the basic git commands to update your site:
+
 ```
 git add .
 ```
@@ -84,6 +79,8 @@ or
 ```
 git push origin master
 ```
+alright so now if you go to the https://username.github.io site you should see the default Jekyll theme on your site! Congrats!
+
 Save often, google often. Thanks for hanging out with me!
 
 If you want to see more about how I adjusted the design, check out my post [How I Designed My Jekyll Blog From Minima](How-Designed-My-Jekyll-Blog.html)

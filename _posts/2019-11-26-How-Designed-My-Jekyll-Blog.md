@@ -10,7 +10,7 @@ excerpt_separator:  <!--more-->
 
 <img src="\pictures\how I Created My Blog\How I Easily Edited My Jekyll Minima Theme.png" style="margin-left:auto; margin-right:auto; display:block;">
 
-I want to use this blog to get my projects and ideas out there. I am not trying to be a web designer or full stack developer, so spending a lot of time getting this perfect wasn't a priority. Yet, I found that I still found the default Minima theme to be... not my style. I initially was over ambitious with my design, too many ideas. I had a eureka moment working on the design. I thought, 'Keep It Simple Stupid'. I needed to just stick to the basics and work my way up. <!--more-->
+Hello welcome to the Design portion of my blogging adventure! I want to use this blog to get my projects and ideas out there. I am not trying to be a web designer or full stack developer, so spending a lot of time getting this perfect wasn't a priority. Yet, I still found the default Minima theme to be... not my style. I initially was over ambitious with my design, too many ideas. I had a eureka moment working on the design. I thought, 'Keep It Simple Stupid'. I needed to just stick to the basics and work my way up. <!--more-->
 
 <img src="\pictures\how I Created My Blog\tenor.gif" style="margin-left:auto; margin-right:auto; display:block;">
 
@@ -50,11 +50,12 @@ Basically this is my current file structure and if you navigate to my About page
 
 ***Front matter***
 
-you can see above in the front matter you can see I have a layout variable If you go to the \_layouts folder you will see post.html. I like to think of the layout variable as a wrapper for how  everything assigned to this variable, in this instance "post".
+You can see above in the front matter you can see I have a layout variable If you go to the \_layouts folder you will see post.html. I like to think of the layout variable as a wrapper for how everything assigned to this variable, in this instance "post".
 Next you see the title variable. I feel like this is pretty self explanatory.
 Then you have the permalink variable, this lets Jekyll know what page to navigate to inside the directory.
 
 ***CSS***
+
 Now we wanna edit some CSS styles of the blog. The first thing I did was change colors of the text. I navigated to the localhost:4000, once there I right clicked and chose inspect.
 This will help guide you too the CSS elements you want to change.
 <img src="\pictures\how I Created My Blog\installjekyll010.png">
@@ -63,7 +64,7 @@ As you scroll over the element it will highlight which section is covers. I'm go
 
 <img src="\pictures\how I Created My Blog\installjekyll011.png">
 
-Under the styles tab to the right in the .site-title, .site-vistied box we see the file and the line we need to go to to change that element. In this case layout.css:26. so back in Atom I will go to \sass > minima > \_layout.css > line 26 aka .site-title{} and insert color: #99ff33; like so:
+Under the styles tab to the right in the .site-title, .site-vistied box we see the file and the line we need to go to. Change that element. In this case in the css file: layout.css:26. Back in Atom I will go to \sass > minima > \_layout.css > line 26 aka .site-title{} and insert color: #99ff33; like so:
 
   ```
   .site-title {
@@ -83,16 +84,13 @@ Under the styles tab to the right in the .site-title, .site-vistied box we see t
   }
 }
   ```
-Now it's Lime Green.
+Now the title is lime green.
 I Continued to do this for my site-nav, post-headings, and post-links.
 
-**DISCLAIMER:**
-
-While I love to share what I've learned I am definitely not saying this is the best way to go about doing this. I am still trying to understand Jekyll, liquid and all the formatting involved. These are simple solutions that seem to work. I do plan and making these more seamless with the Jekyll formatting and will be creating updated post in the future. For now this is what works for me.
 
 ***Creating a Banner***
 
-You also may have seen the \_includes folder, read up on it [here](https://jekyllrb.com/docs/includes/). I wanted to have my own logo up instead of just my default name. Head to header.html file and using simple link and image tag I included my banner which I saved to my \_picture folder.
+You also may have seen the \_includes folder, read up on it [here](https://jekyllrb.com/docs/includes/). I wanted to have my own logo up instead of just my default name. Head to header.html. Using simple 'a' and 'img' tags I included my banner which I saved to my \_picture folder.
 
 
 <img src="\pictures\how I Created My Blog\installjekyll012.png">
