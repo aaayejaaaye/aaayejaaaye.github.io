@@ -10,7 +10,7 @@ excerpt_separator:  <!--more-->
 
 <img src="\pictures\how I Created My Blog\How I Easily Edited My Jekyll Minima Theme.png" style="margin-left:auto; margin-right:auto; display:block;">
 
-Hello welcome to the Design portion of my blogging adventure! I want to use this blog to get my projects and ideas out there. I am not trying to be a web designer or full stack developer, so spending a lot of time getting this perfect wasn't a priority. Yet, I still found the default Minima theme to be... not my style. I initially was over ambitious with my design, too many ideas. I had a eureka moment working on the design. I thought, 'Keep It Simple Stupid'. I needed to just stick to the basics and work my way up. <!--more-->
+Hello welcome to the design portion of my blogging adventure! This is the second half of my post on how I created this blog. I am not trying to be a web designer or full stack developer, so spending a lot of time getting this perfect wasn't a priority. Yet, I still found the default Minima theme to be... not my style. I initially was over ambitious with my design, too many ideas.  I want to use this blog to get my projects and ideas out there, and look pretty good in the process. I had a eureka moment working on the design. I thought, 'Keep It Simple Stupid'. I needed to just stick to the basics and work my way up. <!--more-->
 
 <img src="\pictures\how I Created My Blog\tenor.gif" style="margin-left:auto; margin-right:auto; display:block;">
 
