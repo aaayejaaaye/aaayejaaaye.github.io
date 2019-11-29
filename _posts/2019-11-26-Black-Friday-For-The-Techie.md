@@ -8,7 +8,7 @@ excerpt_separator:  <!--more-->
 ---
 ---
 
-<img src="\pictures\The Best Amazon Tech Deals for Black Friday.png" style="margin-left:auto; margin-right:auto; display:block;">
+<img src="\pictures\how I Created My Blog\Amazon Black Friday Deals For The Techie In Your Life _ aaayejaaaye.png" style="margin-left:auto; margin-right:auto; display:block;">
 
 
 ***Black Friday*** Do you partake? Chances are you are either curious about what I have to write, or want to know want to get some good deals for the tech nerd in your life! Black Friday is one of the best times of year to buy electronics. I am going to break it down by techie diaspora and let you know what they may have on their holiday gifts list. <!--more-->
@@ -93,7 +93,7 @@ I own a Pixel 2 XL and if you don't mind owning a Google phone then I highly rec
 
 
 <h3 style="color: #66ff33; font-weight:bold;">For the Gamer</h3>
-saved the best category for last! 
+saved the best category for last!
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B07R4XM477/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07R4XM477&linkCode=as2&tag=aaayejaaaye07-20&linkId=48f7b93da2a7c998efadd1dd1ea7266c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07R4XM477&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=aaayejaaaye07-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=aaayejaaaye07-20&l=am2&o=1&a=B07R4XM477" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
