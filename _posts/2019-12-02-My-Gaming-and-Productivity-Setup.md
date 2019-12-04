@@ -121,3 +121,17 @@ Laptop Stand (Ikea)
 [Mouse Pad](https://www.amazon.com/gp/product/B01L731DSQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01L731DSQ&linkCode=as2&tag=aaayejaaaye07-20&linkId=83ecc6bda2d728f55ac348ea04488568)
 
 [RGB Bulb](https://www.amazon.com/gp/product/B07RT8WG5B/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RT8WG5B&linkCode=as2&tag=aaayejaaaye07-20&linkId=7e7613352ef13015d8c666bff37fb50c)
+
+
+Thank you for checking out my setup. Time to do some homework.
+---
+
+I recently had my birthday Sunday and I went to Denver and on the way home my spouse took this photo.
+
+<img src="\pictures\mysetup\IMG-20191201-WA0002_2.jpg" height="400" width="225">
+
+Peace,
+
+AJ
+
+___
