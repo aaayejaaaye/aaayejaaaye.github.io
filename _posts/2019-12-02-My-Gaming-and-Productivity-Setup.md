@@ -124,7 +124,9 @@ Laptop Stand (Ikea)
 
 
 Thank you for checking out my setup. Time to do some homework.
+
 ---
+
 
 I recently had my birthday Sunday and I went to Denver and on the way home my spouse took this photo.
 
