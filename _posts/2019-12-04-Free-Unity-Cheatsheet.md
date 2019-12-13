@@ -9,8 +9,8 @@ excerpt_separator:  <!--more-->
 ---
 <img src="\pictures\unitycheatsheet\Free Unity cheat Sheetinforgraphic.png" width="50%" height="50%" style="margin-left:auto; margin-right:auto; display:block;">
 
-Hello,
-Opening the Unity editor for the first time can be really intimidating. I am here to help. I've created a lovely infographic for you. It's a lovely cheat sheet that give you the basics of the Unity editor! Thanks for checking it out and if you like it be sure to subscribe to my email list!<!--more-->
+<h3>Hello,
+Opening the Unity editor for the first time can be really intimidating. I am here to help. I've created a lovely infographic for you. It's a lovely cheat sheet that give you the basics of the Unity editor! Thanks for checking it out and if you like it be sure to subscribe to my email list!<!--more--></h3>
 
 <img src="\pictures\unitycheatsheet\1.png">
 

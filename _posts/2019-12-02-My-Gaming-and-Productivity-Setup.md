@@ -10,7 +10,7 @@ excerpt_separator:  <!--more-->
 
 <img src="\pictures\mysetup\Instagram Post.png">
 
-This has been a few years in the making! I'm happy to say this is the most satisfied I have ever been with a setup. I bought my desk in 2016 from Ikea and it is this massive beautiful slab of cork, yes cork. It has been the base inspiration for all of my aesthetic choices. I had a Lenovo laptop previously that didn't last as long as a felt it should, but I have recently upgraded to my dream laptop, Razer Blade 15. As technology goes, I could always do some updating every few years!<!--more-->
+<h3>This has been a few years in the making! I'm happy to say this is the most satisfied I have ever been with a setup. I bought my desk in 2016 from Ikea and it is this massive beautiful slab of cork, yes cork. It has been the base inspiration for all of my aesthetic choices. I had a Lenovo laptop previously that didn't last as long as a felt it should, but I have recently upgraded to my dream laptop, Razer Blade 15. As technology goes, I could always do some updating every few years!<!--more--></h3>
 
 During the Day
 
@@ -123,7 +123,7 @@ Laptop Stand (Ikea)
 [RGB Bulb](https://www.amazon.com/gp/product/B07RT8WG5B/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RT8WG5B&linkCode=as2&tag=aaayejaaaye07-20&linkId=7e7613352ef13015d8c666bff37fb50c)
 
 
-Thank you for checking out my setup. Time to do some homework.
+<h3>Thank you for checking out my setup. Time to do some homework.</h3>
 
 ---
 
