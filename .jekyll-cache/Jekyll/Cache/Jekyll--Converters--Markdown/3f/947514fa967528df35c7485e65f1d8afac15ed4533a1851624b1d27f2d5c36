@@ -1,10 +1,11 @@
-I"�<hr />
+I"<hr />
 
 <p><img src="\pictures\arCore\ARCore-logo-_3_.jpg" style="margin-left:auto; margin-right:auto; display:block;" />
-Hello Hello,</p>
+<strong>Hello Hello,</strong></p>
 
-<p>If you are on  the internet looking for a tutorial on ARCore or AR Foundation you might be receiving mixed information on the setup. Never fear I am hear to hold you hand and don’t worry I wont casually gloss over critical details. This tutorial assumes not only is this your first time building an Android application. If you want to try the <a href="https://developers.google.com/ar/develop/unity/quickstart-android">ARCore official Instructions</a> please do. I find that a combination of these plus my own knowledge of unity works best. If you plan on using the ARFoundation package for Unity you will also need to view these instructions <a href="https://developers.google.com/ar/develop/unity-arf/quickstart-android">Quickstart for ARCore Extensions for Android.</a></p>
+<p>If you are on the internet looking for a tutorial on ARCore or AR Foundation you might be receiving mixed information on the configurations. Never fear, I am hear to hold your hand. Don’t worry I wont casually gloss over critical details. This tutorial assumes this your first time building an Android application. If you want to try the <a href="https://developers.google.com/ar/develop/unity/quickstart-android">ARCore official Instructions</a> please do. I find that a combination of these plus my own knowledge of unity works best. If you plan on using the ARFoundation package for Unity you will also need to view these instructions <a href="https://developers.google.com/ar/develop/unity-arf/quickstart-android">Quickstart for ARCore Extensions for Android.</a></p>
 
+<!--more-->
 <p><strong>What You’ll Need:</strong></p>
 
 <p>Android Studio</p>
@@ -17,13 +18,15 @@ Hello Hello,</p>
 
 <p>A compatible device with developer mode enabled and an USB cord to connect it with your computer.</p>
 
+<p>Java 8 (For the AR Foundation Users)</p>
+
 <p><strong>First Steps: Get the Android SDK</strong></p>
 
-<p>You are going to want to download <a href="https://developer.android.com/studio">Android Studio</a>. I am not sure why but the Unity Version off the SDK and NDK are not readable by the 2019 Unity version.</p>
+<p>Download <a href="https://developer.android.com/studio">Android Studio</a>.</p>
 
 <p><img src="\pictures\arCore\androidstudio.png" style="margin-left:auto; margin-right:auto; display:block;" /></p>
 
-<p>you can download all the defaults We are really just using android studio to get the SDK.</p>
+<p>You can download all the defaults. We are really just using android studio to get the SDK.</p>
 
 <p>Start up Android Studio and hit the drop down Configure &gt; SDK Manager</p>
 
@@ -31,13 +34,13 @@ Hello Hello,</p>
 
 <p><img src="\pictures\arCore\androidstudio1.png" style="margin-left:auto; margin-right:auto; display:block;" /></p>
 
-<p>the minimum required API level is Android 7.0 #24 so if you just want to only install that you can. I have installed 7.0 - 10.0.</p>
+<p>The minimum required API level is Android 7.0 or level 24 so if you just want to only install that you can. I have installed 7.0 - 10.0.</p>
 
 <p>Go ahead and hit ‘Apply’ and It will download the API’s. After that has downloaded hit ok and you are done with Android Studio.</p>
 
 <p><strong>Unity Modules and Packages</strong></p>
 
-<p>Go ahead and open Unity Hub. Under the Installs tab hit the three dot drop down next to the version of unity you want to Install Android support. Hit Add Modules.</p>
+<p>Open Unity Hub. Under the Installs tab, hit the three dot drop down next to the version of unity you want to Install Android support for. Hit Add Modules.</p>
 
 <p><img src="\pictures\arCore\unity0.png" style="margin-left:auto; margin-right:auto; display:block;" /></p>
 
@@ -57,7 +60,9 @@ Under Window &gt; Package Manager</p>
   <li>XR Legacy Input Helper</li>
 </ol>
 
-<p>For the ARCore SDK you have two options. <a href="https://github.com/google-ar/arcore-unity-sdk/releases">click here</a> and download the google ARCore Unity package or download the ARCore XR Plugin Package from the Unity Package Manager. They are slightly different so you will have to decide which version is right for you.</p>
+<p>For the ARCore SDK you have two options. <a href="https://github.com/google-ar/arcore-unity-sdk/releases">click here</a> and download the google ARCore Unity package or download the ARCore XR Plugin Package from the Unity Package Manager.<strong>Note</strong> if your plan is to use ARFoundation stop and follow these directions aswell. <a href="https://developers.google.com/ar/develop/unity-arf/quickstart-android">ARCore Extensions for Android.</a></p>
+
+<p>They are slightly different so you will have to decide which version is right for you.</p>
 
 <p>If you have downloaded the Google ARCore Package. Navigate to the location of the download and click on the package with Unity open. a window will appear asking which assets you wish to install. I have all them checked. hit install.</p>
 
@@ -94,11 +99,15 @@ Under Window &gt; Package Manager</p>
 <p><strong>Deploy to Android Phone:</strong></p>
 
 <p>In order to deploy an app live to your phone you will need an ARCore device put into developer mode with USB debugging on. Connect the device to your computer via USB.
-in the Build Setting make sure you have a scene added to open Scenes. You can use one of the sample scenes that comes with the ARCore packages. Under Run Device select you phone from the drop down. Mine is the Google Pixel.
-—-
-—</p>
+In the Build Setting make sure you have a scene added to open Scenes. You can use one of the sample scenes that comes with the ARCore packages. Under Run Device select you phone from the drop down. Mine is the Google Pixel.
+<img src="\pictures\arCore\unity3.png" style="margin-left:auto; margin-right:auto; display:block;" />
+Select build and run. a window will pop up asking where to save the build file. I always create a new folder called ‘builds’ for my builds. lol.
+The app should deploy to your phone and your good to go!</p>
 
-<p>Peace,</p>
+<hr />
+<hr />
+<p>Thanks so much for checking out this tutorial, if you have any problems send me a message on IG and ill be sure to get back to you!
+Peace,</p>
 
 <p>AJ</p>
 :ET
