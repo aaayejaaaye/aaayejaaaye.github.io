@@ -104,7 +104,9 @@ At the time I was still trying to figure out a way to make research my career, s
 
 **Chris:** Yeah, to expand on that I would say that even in the class the idea of developing for accessibility is what we would call a constraint. Developing for a specific differently abled population is very different from developing for a very abled population. I am interested in bridging that gap and developing technologies that benefit differently abled people gain or enhance their perception in some type of way but also can be used by people who don't have the same level of ability, gain some empathy or help them experience a new understanding of the world.
 
-**AJ:** Empathy is really important. That's a good one.
+**AJ:**
+Empathy is really important. It makes me think of when people talk about accessibility and empathy and things like that with technology. I feel like sometimes you get these really brainy types that are just focused on their GPA and getting an A. It just feels like sometimes there's not a lot of empathy there as far as people that create certain technologies, where they're just like, well if you don't get it, then you don't get it. That's terrible to think like that.
+
 
 <img src="\pictures\ChrisInterview\chriscomputerlab.jpg" style="margin-left:auto; margin-right:auto; display:block;">
 <center>Chris in his Lab</center>
