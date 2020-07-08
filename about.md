@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<img src="\pictures\image1.jpg" width="40%" height="40%">
+<!-- <img src="\pictures\image1.jpg" width="40%" height="40%"> -->
 
 Welcome to Aaayejaaaye, (pronounced AJ)
 

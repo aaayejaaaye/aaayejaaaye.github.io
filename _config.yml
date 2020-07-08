@@ -2,11 +2,8 @@ title: aaayejaaaye
 author: AJ
 email:
 description: > # this means to ignore newlines until "show_excerpts:"
-  Welcome, I'm AJ. A site for learning technology and the role
-  it will play in society.
-  Aaayejaaaye is dedicated to AR game development, emerging tech, software and all things related to learning and sharing news and lessons about
-  these topics.
-
+  A site for learning technology and the role it will play in society. 
+  Aaayejaaaye is dedicated to AR development, emerging tech, software, and all things related.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
