@@ -24,11 +24,29 @@ permalink: /projects/
 
 
 <h3>Technical Writing and Design</h3>
-For Spring 2019 I took a technical writing and design course. For this course we reached out to and organization and proceeded to work on a design related project that they needed done pro bono. 
+For Spring 2019 I took a technical writing and design course. For this course we reached out to and organization and proceeded to work on a design related project that they needed done pro bono. My group of three chose a club at CU that I happen to be a member of. The CUTEE (CU Technologies for Extreme Environments) club is a student organization that designs human centered assistive technologies for space exploration and other environments. We created a design document, project charter, and filled time sheets. Our objectives and final deliverables where as follows:
+- Act as a consultant and design experts in the ideation and creation of the outreach banner
+- Help with CUTEE logo design 
+- Get the CU logo design approved by the CU Office of University Relations
+- Help with templating banner and a tablecloth so CUTEE club can have a consistent image
+[Final Project Closing Documentation] (minima\CUTEE_Client_Project_Closing_Document.pdf)
 
 
 <h3>Website Analyzer</h3>
-Fall 2019 Semester I took Software Development and Methods. 
+Fall 2019 Semester I took Software Development and Methods. We formed teams and worked on a semester long project where we created a website analyzer. This application will take in your chosen website and analyze the content of the page(s). This includes, but is not limited to, metadata about your chosen site, (how the content is shown, percentages) as well as specific analysis of the text. We had to create documentation and follow project plan which we did through Github. 
+[Website Info](https://github.com/aaayejaaaye/CSCI-3308-Milestone-Submission/blob/master/ProjectMilestone6_002.pdf)
+[Final Prototype](https://website-analysis-csci3308.herokuapp.com/)
+
 
 <h3>Human Computer Interaction</h3>
-Fall 2018 Semester I took Human Computer Interaction
+Fall 2018 Semester I took Human Computer Interaction. For this semester project we had to create a prototype of an application of our choice. We had to:
+- complete a project plan
+- conduct design research
+- crete paper prototypes
+- usability and heuristic evaluations
+- create story boards and present a final prototype using Figma
+
+The app we create was a magic the gathering application. It's purpose was to provide a way for players to track interaction of decks via articles and post with functions including delete, edit, and write. It includes a social media aspect where the user can easily share and view others people post to make researching and browsing articles quick and efficient 
+
+[Documentation and Final Prototype](https://github.com/aaayejaaaye/GPRO)
+
