@@ -7,7 +7,7 @@ image: \pictures\
 excerpt_separator:  <!--more-->
 ---
 ---
-<img src="\pictures\" style="margin-left:auto; margin-right:auto; display:block;">
+<!-- <img src="\pictures\" style="margin-left:auto; margin-right:auto; display:block;"> -->
 
 I live in Colorado so by the time this is posted our stay at home order will be through BUT, I just want to add that I have been playing DND virtually more than I have played in person. My very first campaign was virtually. We are really going to focus on the best way to emulate the in person experience.
 <!--more-->
@@ -23,7 +23,7 @@ Alternative:
 If you are really trying to be budget conscious just use a smart phone.
 **Character Sheets**
 I make a google sheet but they're are plenty of online character sheets you can download if you want.
-when I first started I used DND beyond character creator tool and that is great to get an undstanding of what you should be looking for but i reccomend moving away from the quickly because most of the intersting factors are bhind a pay wall.(unless you want to pay the $).
+when I first started I used DND beyond character creator tool and that is great to get an undstanding of what you should be looking for but i reccomend moving away from the quickly because most of the intersting factors are behind a pay wall.(unless you want to pay the $).
 
 
 

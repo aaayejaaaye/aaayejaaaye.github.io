@@ -30,13 +30,16 @@ For Spring 2019 I took a technical writing and design course. For this course we
 - Get the CU logo design approved by the CU Office of University Relations
 - Help with templating banner and a tablecloth so CUTEE club can have a consistent image
 
-[Final Project Closing Documentation] (https://github.com/aaayejaaaye/aaayejaaaye.github.io/blob/master/CUTEE_Client_Project_Closing_Document.pdf)
+
+[Final Project Closing Documentation](https://github.com/aaayejaaaye/aaayejaaaye.github.io/blob/master/CUTEE_Client_Project_Closing_Document.pdf)
 
 
 <h3>Website Analyzer</h3>
 Fall 2019 Semester I took Software Development and Methods. We formed teams and worked on a semester long project where we created a website analyzer. This application will take in your chosen website and analyze the content of the page(s). This includes, but is not limited to, metadata about your chosen site, (how the content is shown, percentages) as well as specific analysis of the text. We had to create documentation and follow project plan which we did through Github. 
 
+
 [Website Info](https://github.com/aaayejaaaye/CSCI-3308-Milestone-Submission/blob/master/ProjectMilestone6_002.pdf)
+
 
 [Final Prototype](https://website-analysis-csci3308.herokuapp.com/)
 
@@ -50,6 +53,7 @@ Fall 2018 Semester I took Human Computer Interaction. For this semester project 
 - create story boards and present a final prototype using Figma
 
 The app we create was a magic the gathering application. It's purpose was to provide a way for players to track interaction of decks via articles and post with functions including delete, edit, and write. It includes a social media aspect where the user can easily share and view others people post to make researching and browsing articles quick and efficient 
+
 
 [Documentation and Final Prototype](https://github.com/aaayejaaaye/GPRO)
 
