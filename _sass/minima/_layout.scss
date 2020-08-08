@@ -17,14 +17,14 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  color: #99ff33;
+  color: #000000;
   @include media-query($on-palm) {
     padding-right: 45px;
   }
 
   &,
   &:visited {
-    color: #99ff33;
+    color: #000000;
   }
 }
 
@@ -75,7 +75,7 @@
 
   .page-link {
   //color: $text-color;
-    color: #99ff33;
+    color: #000000;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
@@ -150,7 +150,7 @@
   width:         calc(100% - (#{$spacing-unit} / 2));
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
-  color:#ffcc66;
+  color:#343434;
 }
 
 .footer-col-1,
@@ -202,7 +202,7 @@
 }
 
 .post-list-heading {
-  color:#cc33ff;
+  color:#343434;
   @include relative-font-size(1.75);
 }
 
@@ -217,7 +217,7 @@
 
 .post-meta {
   font-size: $small-font-size;
-  color: #00ccff;
+  color: #000000;
 }
 
 .post-link {
