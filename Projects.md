@@ -7,9 +7,7 @@ permalink: /projects/
 
  2019's challenge was to created a augmented reality user interface or AR UI that would be able to assist astronauts during extravehicular activities, such as maintenance on the space station. I was the programming lead for the 2019 challenge. The role involved a good amount of UI/UX as well as programming. The team was small so while programming lead was my title I had the my hands involved in a bit of everything. We developed the capabilities to have the HUD fixed or placed in world space, navigational markers that can be placed in world space and are persistent, and integrated an EMG device into the design. We also worked on but did not integrate, object recognition using Microsoft Azure, and screen sharing capabilities. We also worked on updating the UI to make it more readable and functional by adding pictures and the before mentioned HUD flexibility.
  I was in charge  setting up the initial project, designating task, creating and updating the version control, timelines. As well  researching and programming the Egocentric/world displays, the navigational markers, adding photo capabilities to the UI, and helped with integration of the EMG.
-<img src="\pictures\MyNASASUIT\Oct_12_2018_WhiteboardBrainstorm.jpg">
-<img src="\pictures\MyNASASUIT\proposalrequirements.png">
-<img src="\pictures\MyNASASUIT\IMG_1136 2.jpg">
+
  The 2020 challenge was focused more on Artemis and creating a AR HUD for astronauts on the lunar surface. Much like last years challenge the goal was to created the HUD with task instructions in mind. Unlike 2019's design there was also the addition of navigation to the rover, rover maintenance, and a science task which included soil sample collection. I was not the programming lead, but I did provide guidance early on to the new team of programmers. I helped set up the initial project, program the beta task instructions and helped with integration of the server. Unfortunately due to CO-VID we did not have a team fly to Houston to test out the designs at JSC. 
 
 [CU SUITS Webpage](https://www.colorado.edu/faculty/anderson/nasa-suits-ar-challenge)
